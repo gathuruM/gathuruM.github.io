@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scene on Mercy Gathuru</title>
+    <link>https://gathurum.github.io/tags/scene/</link>
+    <description>Recent content in Scene on Mercy Gathuru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Aug 2023 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://gathurum.github.io/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Air Quality in Nairobi</title>
+      <link>https://gathurum.github.io/post/project1/</link>
+      <pubDate>Wed, 09 Aug 2023 10:58:08 -0400</pubDate>
+      <guid>https://gathurum.github.io/post/project1/</guid>
+      <description>Connected to a MongoDB server using pymongo library to localize and extract the required data, ETL. Applied rolling average, autocorrelation and lag operations to Times Series data variables. Utilized Train Test Split procedures to create proper train and test datasets for a Linear Regression model. Built, explored and interpreted Partial/Auto Correlation Functions plots. Using statsmodels modules, constructed Auto Regressive and ARMA models and validated them via Walk Forward optimization. Tuned the number of lagged observations and moving avg.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mercy Gathuru</title>
+    <link>https://gathurum.github.io/post/</link>
+    <description>Recent content in Projects on Mercy Gathuru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Aug 2023 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://gathurum.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Air Quality in Nairobi</title>
+      <link>https://gathurum.github.io/post/project1/</link>
+      <pubDate>Wed, 09 Aug 2023 10:58:08 -0400</pubDate>
+      <guid>https://gathurum.github.io/post/project1/</guid>
+      <description>Connected to a MongoDB server using pymongo library to localize and extract the required data, ETL. Applied rolling average, autocorrelation and lag operations to Times Series data variables. Utilized Train Test Split procedures to create proper train and test datasets for a Linear Regression model. Built, explored and interpreted Partial/Auto Correlation Functions plots. Using statsmodels modules, constructed Auto Regressive and ARMA models and validated them via Walk Forward optimization. Tuned the number of lagged observations and moving avg.</description>
+    </item>
+    <item>
+      <title>Project 2: Female Headed Households in South Africa</title>
+      <link>https://gathurum.github.io/post/project2/</link>
+      <pubDate>Sat, 10 Apr 2021 11:00:59 -0400</pubDate>
+      <guid>https://gathurum.github.io/post/project2/</guid>
+      <description>Female-headed households have been on the rise in South Africa in recent years. Compared to male-headed households, female-headed households tend to face greater social and economic challenges. Female-headed households, in general, are more vulnerable to lower household incomes and higher rates of poverty.&#xA;The objective of this challenge is to build a predictive model that accurately estimates the percentage of households per ward that are female-headed and living below a particular income threshold, by using data points that can be collected through other means without an intensive household survey like the census.</description>
+    </item>
+  </channel>
+</rss>
